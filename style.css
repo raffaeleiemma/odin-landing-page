@@ -133,3 +133,24 @@ body {
 .quote-author {
   margin-left: auto;
 }
+.cta {
+  display: flex;
+  background-color: #3882f6;
+  margin: 3em 6em;
+  padding: 1em 4em;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+  flex-wrap: wrap;
+}
+.cta-text {
+  color: #f9faf8;
+}
+.cta-title {
+  font-weight: 600;
+}
+.footer {
+  padding: 1em 4em;
+  display: flex;
+  justify-content: center;
+}
